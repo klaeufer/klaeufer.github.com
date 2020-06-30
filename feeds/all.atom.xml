@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Konstantin Läufer's Personal Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-06-30T00:00:00-05:00</updated><entry><title>First Post on My New Blog</title><link href="/first-post-on-my-new-blog.html" rel="alternate"></link><published>2020-06-30T00:00:00-05:00</published><updated>2020-06-30T00:00:00-05:00</updated><author><name>Konstantin Läufer</name></author><id>tag:None,2020-06-30:/first-post-on-my-new-blog.html</id><content type="html">&lt;h1&gt;First post on my Pelican/GitHub blog&lt;/h1&gt;
+&lt;p&gt;Just getting my feet wet for now...
+More soon.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
